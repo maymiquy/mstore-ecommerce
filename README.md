@@ -1,7 +1,7 @@
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/MiqdamFerdiansyahHambali/mstore-ecommerce?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MiqdamFerdiansyahHambali/mstore-ecommerce.svg?style=flat-square)
 [![License](https://img.shields.io/github/license/MiqdamFerdiansyahHambali/mstore-ecommerce?style=flat-square)](LICENSE)
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat-square)](#contributors-)
+[![Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat-square)](#contributors-)
 <h1 align="center">M-Store E-Commerce</h1>
 <p>
 M-Store E-Commerce adalah sebuah aplikasi toko online yang dirancang untuk memudahkan pengguna dalam melakukan transaksi jual beli secara online. Aplikasi ini memiliki fitur yang lengkap dan mudah digunakan.
