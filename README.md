@@ -4,7 +4,7 @@
 [![Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat-square)](#contributors-)
 <h1 align="center">M-Store E-Commerce</h1>
 <p>
-M-Store E-Commerce adalah sebuah aplikasi toko online yang dirancang untuk memudahkan pengguna dalam melakukan transaksi jual beli secara online. Aplikasi ini memiliki fitur yang lengkap dan mudah digunakan.
+M-Store E-Commerce adalah sebuah aplikasi toko online yang dirancang untuk memudahkan user dalam menggunakan sebuah web app kami. Aplikasi ini memiliki fitur back end data base.
 </p>
 
 ## Fitur
