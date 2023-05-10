@@ -18,10 +18,13 @@ M-Store E-Commerce adalah sebuah aplikasi toko online yang dirancang untuk memud
 
 Aplikasi M-Store E-Commerce dibangun menggunakan teknologi sebagai berikut:
 
-1. Bootstrap sebagai framework frontend
-2. PHP sebagai platform backend
-3. MySQL sebagai database
-4. JQuery sebagai web framework
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="css" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="Javascript" alt="javascript" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" alt="php" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="sass" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="bootstrap" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" title="MySQL" alt="mysql" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT" alt="git" width="40" height="40" />
 
 ## Instalasi
 
