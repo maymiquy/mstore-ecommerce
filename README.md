@@ -46,4 +46,4 @@ git clone https://github.com/MiqdamFerdiansyahHambali/mstore-ecommerce
 
 ## Pengembang
 
-<h5Miqdam Hambali</h5>
+<h5>Miqdam Hambali</h5>
